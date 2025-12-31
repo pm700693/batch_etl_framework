@@ -1,1 +1,2 @@
-# batch_etl_framework
+# Batch ETL Framework
+Config-driven Spark ETL skeleton.

@@ -1,0 +1,4 @@
+jobs:
+  - name: sample
+    source: gs://your-bucket/raw/*.json
+    target: gs://your-bucket/curated/sample/
